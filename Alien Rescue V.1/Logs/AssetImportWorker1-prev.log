@@ -1,0 +1,142 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 7105 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Lowe Family/Desktop/Richie/CODER's DELIGHT/Alien Rescue V.1
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55543
+Successfully changed project path to: C:/Users/Lowe Family/Desktop/Richie/CODER's DELIGHT/Alien Rescue V.1
+C:/Users/Lowe Family/Desktop/Richie/CODER's DELIGHT/Alien Rescue V.1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 263.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Lowe Family/Desktop/Richie/CODER's DELIGHT/Alien Rescue V.1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   
+    VRAM:     3552 MB
+    Driver:   23.20.15016.15
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008460 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 362.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.592 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.040040 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 369.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Can't find custom attr constructor image: C:\Users\Lowe Family\Desktop\Richie\CODER's DELIGHT\Alien Rescue V.1\Library\PackageCache\com.unity.ads@3.4.4\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Mono: successfully reloaded assembly
+- Completed reload, in  5.318 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.35 seconds
+Refreshing native plugins compatible for Editor in 3.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2623.
+Total: 8.876800 ms (FindLiveObjects: 1.644600 ms CreateObjectMapping: 0.317600 ms MarkObjects: 5.978200 ms  DeleteObjects: 0.930400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs
+  artifactKey: Guid(c770c1253e47649aaae1456ab23854ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(c770c1253e47649aaae1456ab23854ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c0e1bc352e38ae9727a6b08129ca71') in 0.059254 seconds
+  Import took 0.107254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012535 seconds.
+  path: Assets/Images/Asteroids
+  artifactKey: Guid(8c74efdf78c414c4192c5a48ed9df654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Asteroids using Guid(8c74efdf78c414c4192c5a48ed9df654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a339db4ae914d060792f27cac6bd9f') in 0.052835 seconds
+  Import took 0.070977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042432 seconds.
+  path: Assets/Images/Asteroids
+  artifactKey: Guid(8c74efdf78c414c4192c5a48ed9df654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Asteroids using Guid(8c74efdf78c414c4192c5a48ed9df654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a339db4ae914d060792f27cac6bd9f') in 0.042838 seconds
+  Import took 0.183699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.296858 seconds.
+  path: Assets/Images/Asteroids/Moon Monocrome.png
+  artifactKey: Guid(1a2a613e772731b4294f30b3a8b65c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Asteroids/Moon Monocrome.png using Guid(1a2a613e772731b4294f30b3a8b65c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af46e10bc84ddd5c6f1570d9e187e637') in 1.207034 seconds
+  Import took 1.230386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.540869 seconds.
+  path: Assets/Images
+  artifactKey: Guid(dd463c752245e408aa63a05c8735389d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(dd463c752245e408aa63a05c8735389d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a884b5d388f01fc0daf0368c355186') in 0.029389 seconds
+  Import took 0.045083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 228.794123 seconds.
+  path: Assets/Images/Backgrounds/BG_Space.png
+  artifactKey: Guid(bab9854c731f63442978c2b672a1d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/BG_Space.png using Guid(bab9854c731f63442978c2b672a1d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb84ddfe87d78c226b6128d0be7a0a85') in 0.061214 seconds
+  Import took 0.071015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004836 seconds.
+  path: Assets/Images/Backgrounds/BG_Space.png
+  artifactKey: Guid(bab9854c731f63442978c2b672a1d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/BG_Space.png using Guid(bab9854c731f63442978c2b672a1d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb84ddfe87d78c226b6128d0be7a0a85') in 0.037886 seconds
+  Import took 0.048553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 955.243936 seconds.
+  path: Assets/Images/Spaceships/SpaceshipBlue.png
+  artifactKey: Guid(c5159b0e60aa8e34cbf9cc979f937098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Spaceships/SpaceshipBlue.png using Guid(c5159b0e60aa8e34cbf9cc979f937098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0901fa448475d97b575fd6e23e0d59f') in 0.153526 seconds
+  Import took 0.172054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.518320 seconds.
+  path: Assets/Images/Spaceships/SpaceshipRed.png
+  artifactKey: Guid(ab72467e062206645b32971dc962d595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Spaceships/SpaceshipRed.png using Guid(ab72467e062206645b32971dc962d595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3b67955c974303d2794d83c9d505f6') in 0.138354 seconds
+  Import took 0.190101 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
